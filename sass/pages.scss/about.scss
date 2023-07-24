@@ -1,0 +1,102 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.body{
+   height: 1700px;
+}
+
+.header__img{
+   margin-left: 210px;
+   margin-top: 26px;
+}
+
+.navbar{
+   margin-left: 700px;
+   margin-top: -50px;
+   background: #bb2339;
+   position: absolute;
+}
+
+.header__html{
+   background-color: #bb2339;
+   position: fixed;
+   width: 2000px;
+}
+
+.button{
+   width: 131px;
+   height: 48px;
+   background: #bb2339;
+   border-radius: 100px;
+   border: 1px solid #FFF;
+   color: #FFF;
+   margin-left: 1300px;
+   position: absolute;
+   margin-top: -50px;
+}
+
+.nav-link{
+   margin-left: 40px;
+}
+
+ .button {
+   box-shadow: 0 0 5px cornflowerblue,
+0 0 25px grey;
+   }
+  .button:hover {
+         box-shadow: 0 0 5px yellow,
+         0 0 25px mediumslateblue, 0 0 50px green,
+         0 0 100px rgb(150, 231, 28), 0 0 200px rgb(14, 179, 160);
+         }
+
+
+         .h1__abou{
+            color: #242424;
+            font-size: 64px;
+            margin-left: 715px;
+            margin-top: 170px;
+            position: absolute;
+         }
+
+         .nit__red{
+           margin-left: 845px;
+           margin-top: 261px;
+           position: absolute;
+         }
+
+         .lorem{
+            color: #242424;
+            font-family: Open Sans;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px; /* 160% */
+            letter-spacing: 0.8px;
+            opacity: 0.800000011920929;
+            margin-left: 600px;
+            margin-top: 310px;
+            position: absolute;
+         }
+
+         .all__src{
+            margin-left: 600px;
+            margin-top: 532px;
+            position: absolute;
+         }
+        
+         .lg__lorem{
+            margin-left: 600px;
+            margin-top: 1202px;
+            position: absolute;
+            color: #242424;
+            font-family: Open Sans;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px; /* 160% */
+            letter-spacing: 0.8px;
+            opacity: 0.800000011920929;
+         }
